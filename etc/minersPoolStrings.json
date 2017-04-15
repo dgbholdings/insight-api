@@ -6,6 +6,27 @@
          "minersPoolEU"
       ]   
    }, 
+      {   
+      "poolName":"MiningPoolHub",
+      "url":"https://www.MiningPoolHub.com/",
+      "searchStrings":[
+         "MiningPoolHub"
+      ]   
+   }, 
+      {   
+      "poolName":"MinersPoolEU",
+      "url":"https://www.miners-pool.eu/",
+      "searchStrings":[
+         "minersPoolEU"
+      ]   
+   }, 
+      {   
+      "poolName":"Miner Sharp Fire",
+      "url":"https://www.digiexplorer.info/",
+      "searchStrings":[
+         "sharp_fire"
+      ]   
+   }, 
    { 
   
       "poolName":"DigiHash",
